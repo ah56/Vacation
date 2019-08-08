@@ -1,0 +1,19 @@
+body {
+ font-family: 'Spectral';
+ font-size: 19px;
+}
+
+.images img{
+  position: relative;
+  height: 350px;
+  width: 550px;
+  z-index: 2;
+
+}
+
+h1 {
+  text-align: center;
+  border-style: solid;
+  text-decoration: underline;
+
+}
