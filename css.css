@@ -2,6 +2,7 @@ body {
  font-family: 'Spectral';
  font-size: 19px;
  background-color: #3ec7c9;
+ max-width: 1200px;
 }
 
 .images img{
@@ -35,12 +36,8 @@ h2 {
 }
 
 .container {
-  float: right;
+  float: left;
   border-style:solid;
   color: white;
-  max-width: 200px;
-}
-
- .two {
-  margin: 10px;
+  max-width: 180px;
 }
