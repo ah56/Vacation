@@ -1,17 +1,13 @@
+.pics {
+t 
+}
+
 body {
  font-family: 'Spectral';
  font-size: 19px;
  background-color: #3ec7c9;
 }
 
-.images img{
-  position: relative;
-  height: 350px;
-  width: 550px;
-  z-index: 2;
-
-
-}
 
 h1 {
   text-align: center;
@@ -32,15 +28,4 @@ h2 {
 
 .link {
   color: blue;
-}
-
-.container {
-  float: right;
-  border-style:solid;
-  color: white;
-  max-width: 200px;
-}
-
- .two {
-  margin: 10px;
 }
